@@ -2,4 +2,6 @@ softversko
 inzenerstvo
 labaratoriska
 vezba
+prva
+eden
 
